@@ -6,3 +6,8 @@ Tic Tac Toe game in JavaScript
 ![mid-game](images/midGame.png)
 ![win](images/win.png)
 ![draw](images/draw.png)
+
+## Technologies Used:
+JavaScript
+HTML - HTML5
+CSS
