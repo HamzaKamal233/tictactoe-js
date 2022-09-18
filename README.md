@@ -9,5 +9,5 @@ Tic Tac Toe game in JavaScript
 
 ## Technologies Used:
 JavaScript
-HTML - HTML5
+HTML5
 CSS
